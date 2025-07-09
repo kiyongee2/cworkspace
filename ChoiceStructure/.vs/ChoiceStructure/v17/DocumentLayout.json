@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworkspace\\ChoiceStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\scorePoint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|solutionrelative:ChoiceStructure\\scorePoint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\leapYear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|solutionrelative:ChoiceStructure\\leapYear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\ifEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|solutionrelative:ChoiceStructure\\ifEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\ifEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|solutionrelative:ChoiceStructure\\ifEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scorePoint.c",
+              "DocumentMoniker": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\scorePoint.c",
+              "RelativeDocumentMoniker": "ChoiceStructure\\scorePoint.c",
+              "ToolTip": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\scorePoint.c",
+              "RelativeToolTip": "ChoiceStructure\\scorePoint.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-09T08:43:17.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "leapYear.c",
+              "DocumentMoniker": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\leapYear.c",
+              "RelativeDocumentMoniker": "ChoiceStructure\\leapYear.c",
+              "ToolTip": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\leapYear.c",
+              "RelativeToolTip": "ChoiceStructure\\leapYear.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-09T08:29:06.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ifEx2.c",
+              "DocumentMoniker": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\ifEx2.c",
+              "RelativeDocumentMoniker": "ChoiceStructure\\ifEx2.c",
+              "ToolTip": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\ifEx2.c",
+              "RelativeToolTip": "ChoiceStructure\\ifEx2.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-09T08:16:46.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ifEx1.c",
+              "DocumentMoniker": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\ifEx1.c",
+              "RelativeDocumentMoniker": "ChoiceStructure\\ifEx1.c",
+              "ToolTip": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\ifEx1.c",
+              "RelativeToolTip": "ChoiceStructure\\ifEx1.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-09T08:07:47.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

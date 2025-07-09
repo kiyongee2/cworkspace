@@ -21,5 +21,26 @@
     <ClCompile Include="var.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="dataScope.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operatorEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operatorEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inputEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="constantEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="constantEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
