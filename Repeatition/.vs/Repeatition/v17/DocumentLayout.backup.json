@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworkspace\\Repeatition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|C:\\cworkspace\\Repeatition\\Repeatition\\gugudan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|solutionrelative:Repeatition\\gugudan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|C:\\cworkspace\\Repeatition\\Repeatition\\nestedFor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|solutionrelative:Repeatition\\nestedFor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|C:\\cworkspace\\Repeatition\\Repeatition\\forEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|solutionrelative:Repeatition\\forEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|C:\\cworkspace\\Repeatition\\Repeatition\\coffeeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|solutionrelative:Repeatition\\coffeeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|C:\\cworkspace\\Repeatition\\Repeatition\\whileIfBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|solutionrelative:Repeatition\\whileIfBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|C:\\cworkspace\\Repeatition\\Repeatition\\whileEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{721CD61E-5555-4C0F-9ADA-B2C4DB26C5F7}|Repeatition\\Repeatition.vcxproj|solutionrelative:Repeatition\\whileEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gugudan.c",
+              "DocumentMoniker": "C:\\cworkspace\\Repeatition\\Repeatition\\gugudan.c",
+              "RelativeDocumentMoniker": "Repeatition\\gugudan.c",
+              "ToolTip": "C:\\cworkspace\\Repeatition\\Repeatition\\gugudan.c*",
+              "RelativeToolTip": "Repeatition\\gugudan.c*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T08:40:49.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nestedFor.c",
+              "DocumentMoniker": "C:\\cworkspace\\Repeatition\\Repeatition\\nestedFor.c",
+              "RelativeDocumentMoniker": "Repeatition\\nestedFor.c",
+              "ToolTip": "C:\\cworkspace\\Repeatition\\Repeatition\\nestedFor.c",
+              "RelativeToolTip": "Repeatition\\nestedFor.c",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T08:26:20.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "forEx1.c",
+              "DocumentMoniker": "C:\\cworkspace\\Repeatition\\Repeatition\\forEx1.c",
+              "RelativeDocumentMoniker": "Repeatition\\forEx1.c",
+              "ToolTip": "C:\\cworkspace\\Repeatition\\Repeatition\\forEx1.c",
+              "RelativeToolTip": "Repeatition\\forEx1.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-10T08:10:24.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "coffeeMachine.c",
+              "DocumentMoniker": "C:\\cworkspace\\Repeatition\\Repeatition\\coffeeMachine.c",
+              "RelativeDocumentMoniker": "Repeatition\\coffeeMachine.c",
+              "ToolTip": "C:\\cworkspace\\Repeatition\\Repeatition\\coffeeMachine.c",
+              "RelativeToolTip": "Repeatition\\coffeeMachine.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-10T07:48:09.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "whileIfBreak.c",
+              "DocumentMoniker": "C:\\cworkspace\\Repeatition\\Repeatition\\whileIfBreak.c",
+              "RelativeDocumentMoniker": "Repeatition\\whileIfBreak.c",
+              "ToolTip": "C:\\cworkspace\\Repeatition\\Repeatition\\whileIfBreak.c",
+              "RelativeToolTip": "Repeatition\\whileIfBreak.c",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-10T07:33:06.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "whileEx.c",
+              "DocumentMoniker": "C:\\cworkspace\\Repeatition\\Repeatition\\whileEx.c",
+              "RelativeDocumentMoniker": "Repeatition\\whileEx.c",
+              "ToolTip": "C:\\cworkspace\\Repeatition\\Repeatition\\whileEx.c",
+              "RelativeToolTip": "Repeatition\\whileEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-10T07:07:29.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
