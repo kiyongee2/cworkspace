@@ -1,0 +1,14 @@
+﻿  ifEx1.c
+  ifEx2.c
+  leapYear.c
+  programATM.c
+  scorePoint.c
+  switchCaseEx.c
+  switchCaseEx2.c
+ifEx2.obj : error LNK2005: main이(가) ifEx1.obj에 이미 정의되어 있습니다.
+leapYear.obj : error LNK2005: main이(가) ifEx1.obj에 이미 정의되어 있습니다.
+programATM.obj : error LNK2005: main이(가) ifEx1.obj에 이미 정의되어 있습니다.
+scorePoint.obj : error LNK2005: main이(가) ifEx1.obj에 이미 정의되어 있습니다.
+switchCaseEx.obj : error LNK2005: main이(가) ifEx1.obj에 이미 정의되어 있습니다.
+switchCaseEx2.obj : error LNK2005: main이(가) ifEx1.obj에 이미 정의되어 있습니다.
+C:\cworkspace\ChoiceStructure\x64\Release\ChoiceStructure.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

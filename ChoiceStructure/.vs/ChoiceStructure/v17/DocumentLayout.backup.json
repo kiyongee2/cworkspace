@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\cworkspace\\ChoiceStructure\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\programATM.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|solutionrelative:ChoiceStructure\\programATM.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\switchCaseEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|solutionrelative:ChoiceStructure\\switchCaseEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\switchCaseEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|solutionrelative:ChoiceStructure\\switchCaseEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\scorePoint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C4C3925-CD6A-439B-B732-4DC6802F46FC}|ChoiceStructure\\ChoiceStructure.vcxproj|solutionrelative:ChoiceStructure\\scorePoint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,19 +43,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "programATM.c",
+              "DocumentMoniker": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\programATM.c",
+              "RelativeDocumentMoniker": "ChoiceStructure\\programATM.c",
+              "ToolTip": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\programATM.c",
+              "RelativeToolTip": "ChoiceStructure\\programATM.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-15T07:31:34.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "switchCaseEx2.c",
+              "DocumentMoniker": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\switchCaseEx2.c",
+              "RelativeDocumentMoniker": "ChoiceStructure\\switchCaseEx2.c",
+              "ToolTip": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\switchCaseEx2.c",
+              "RelativeToolTip": "ChoiceStructure\\switchCaseEx2.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-15T07:20:09.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "switchCaseEx.c",
+              "DocumentMoniker": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\switchCaseEx.c",
+              "RelativeDocumentMoniker": "ChoiceStructure\\switchCaseEx.c",
+              "ToolTip": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\switchCaseEx.c",
+              "RelativeToolTip": "ChoiceStructure\\switchCaseEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-15T07:07:46.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "scorePoint.c",
               "DocumentMoniker": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\scorePoint.c",
               "RelativeDocumentMoniker": "ChoiceStructure\\scorePoint.c",
               "ToolTip": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\scorePoint.c",
               "RelativeToolTip": "ChoiceStructure\\scorePoint.c",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-09T08:43:17.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "leapYear.c",
               "DocumentMoniker": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\leapYear.c",
               "RelativeDocumentMoniker": "ChoiceStructure\\leapYear.c",
@@ -51,12 +102,11 @@
               "RelativeToolTip": "ChoiceStructure\\leapYear.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-09T08:29:06.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:29:06.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ifEx2.c",
               "DocumentMoniker": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\ifEx2.c",
               "RelativeDocumentMoniker": "ChoiceStructure\\ifEx2.c",
@@ -64,12 +114,11 @@
               "RelativeToolTip": "ChoiceStructure\\ifEx2.c",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-09T08:16:46.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:16:46.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ifEx1.c",
               "DocumentMoniker": "C:\\cworkspace\\ChoiceStructure\\ChoiceStructure\\ifEx1.c",
               "RelativeDocumentMoniker": "ChoiceStructure\\ifEx1.c",
@@ -77,8 +126,7 @@
               "RelativeToolTip": "ChoiceStructure\\ifEx1.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-09T08:07:47.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:07:47.748Z"
             }
           ]
         }
