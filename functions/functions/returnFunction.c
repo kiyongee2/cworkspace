@@ -19,6 +19,7 @@ int myAbs(int x) {
 		return x;
 }
 
+//문자열 반환시엔 포인터(주소를 저장하는 변수)
 char* message() {
 	return "행운을 빌어요~";
 }
@@ -35,5 +36,5 @@ int main()
 	printf("메시지: %s\n", message());
 	
 
-	return 0;
+	return 0;  //정상 종료(운영체제에 반환함)
 }

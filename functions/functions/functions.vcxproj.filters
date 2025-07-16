@@ -21,5 +21,20 @@
     <ClCompile Include="returnFunction.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="returnFunction2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variableScope.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="staticVariable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mathEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
