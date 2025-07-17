@@ -36,5 +36,11 @@
     <ClCompile Include="mathEx.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="timeEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="randEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
