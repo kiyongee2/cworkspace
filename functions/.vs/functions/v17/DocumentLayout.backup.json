@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\cworkspace\\functions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|C:\\cworkspace\\functions\\functions\\randCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|solutionrelative:functions\\randCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|C:\\cworkspace\\functions\\functions\\strcmpEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|solutionrelative:functions\\strcmpEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|C:\\cworkspace\\functions\\functions\\strcpyEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|solutionrelative:functions\\strcpyEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|C:\\cworkspace\\functions\\functions\\inputErrorEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|solutionrelative:functions\\inputErrorEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|C:\\cworkspace\\functions\\functions\\getCharEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|solutionrelative:functions\\getCharEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|C:\\cworkspace\\functions\\functions\\randEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D5EC7211-17F6-4A8D-9AFE-824D1B5BB796}|functions\\functions.vcxproj|solutionrelative:functions\\randEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +43,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "randEx.c",
-              "DocumentMoniker": "C:\\cworkspace\\functions\\functions\\randEx.c",
-              "RelativeDocumentMoniker": "functions\\randEx.c",
-              "ToolTip": "C:\\cworkspace\\functions\\functions\\randEx.c*",
-              "RelativeToolTip": "functions\\randEx.c*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Title": "randCoin.c",
+              "DocumentMoniker": "C:\\cworkspace\\functions\\functions\\randCoin.c",
+              "RelativeDocumentMoniker": "functions\\randCoin.c",
+              "ToolTip": "C:\\cworkspace\\functions\\functions\\randCoin.c",
+              "RelativeToolTip": "functions\\randCoin.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-17T07:40:28.317Z",
+              "WhenOpened": "2025-07-18T08:32:17.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "strcmpEx.c",
+              "DocumentMoniker": "C:\\cworkspace\\functions\\functions\\strcmpEx.c",
+              "RelativeDocumentMoniker": "functions\\strcmpEx.c",
+              "ToolTip": "C:\\cworkspace\\functions\\functions\\strcmpEx.c",
+              "RelativeToolTip": "functions\\strcmpEx.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-18T07:43:26.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "strcpyEx.c",
+              "DocumentMoniker": "C:\\cworkspace\\functions\\functions\\strcpyEx.c",
+              "RelativeDocumentMoniker": "functions\\strcpyEx.c",
+              "ToolTip": "C:\\cworkspace\\functions\\functions\\strcpyEx.c",
+              "RelativeToolTip": "functions\\strcpyEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-18T07:35:05.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inputErrorEx.c",
+              "DocumentMoniker": "C:\\cworkspace\\functions\\functions\\inputErrorEx.c",
+              "RelativeDocumentMoniker": "functions\\inputErrorEx.c",
+              "ToolTip": "C:\\cworkspace\\functions\\functions\\inputErrorEx.c",
+              "RelativeToolTip": "functions\\inputErrorEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-18T07:20:17.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "getCharEx.c",
+              "DocumentMoniker": "C:\\cworkspace\\functions\\functions\\getCharEx.c",
+              "RelativeDocumentMoniker": "functions\\getCharEx.c",
+              "ToolTip": "C:\\cworkspace\\functions\\functions\\getCharEx.c",
+              "RelativeToolTip": "functions\\getCharEx.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-18T07:05:37.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "randEx.c",
+              "DocumentMoniker": "C:\\cworkspace\\functions\\functions\\randEx.c",
+              "RelativeDocumentMoniker": "functions\\randEx.c",
+              "ToolTip": "C:\\cworkspace\\functions\\functions\\randEx.c",
+              "RelativeToolTip": "functions\\randEx.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-17T07:40:28.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "timeEx.c",
               "DocumentMoniker": "C:\\cworkspace\\functions\\functions\\timeEx.c",
               "RelativeDocumentMoniker": "functions\\timeEx.c",
@@ -43,8 +124,7 @@
               "RelativeToolTip": "functions\\timeEx.c",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-17T07:20:39.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T07:20:39.273Z"
             }
           ]
         }
