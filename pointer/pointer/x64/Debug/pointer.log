@@ -1,2 +1,6 @@
-﻿  pointerString.c
+﻿  calcScore.c
+C:\cworkspace\pointer\pointer\calcScore.c(13,14): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+C:\cworkspace\pointer\pointer\calcScore.c(13,19): warning C4101: 'max' :참조되지 않은 지역 변수입니다.
+C:\cworkspace\pointer\pointer\calcScore.c(11,6): warning C4101: 'studentNum' :참조되지 않은 지역 변수입니다.
+C:\cworkspace\pointer\pointer\calcScore.c(14,8): warning C4101: 'avg' :참조되지 않은 지역 변수입니다.
   pointer.vcxproj -> C:\cworkspace\pointer\x64\Debug\pointer.exe
