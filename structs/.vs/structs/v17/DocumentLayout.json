@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworkspace\\structs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|C:\\cworkspace\\structs\\structs\\typedefEmployee.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|solutionrelative:structs\\typedefEmployee.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|C:\\cworkspace\\structs\\structs\\structPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|solutionrelative:structs\\structPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|C:\\cworkspace\\structs\\structs\\typedefPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|solutionrelative:structs\\typedefPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|C:\\cworkspace\\structs\\structs\\structRectangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|solutionrelative:structs\\structRectangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|C:\\cworkspace\\structs\\structs\\structArrayPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|solutionrelative:structs\\structArrayPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "typedefEmployee.c",
+              "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\typedefEmployee.c",
+              "RelativeDocumentMoniker": "structs\\typedefEmployee.c",
+              "ToolTip": "C:\\cworkspace\\structs\\structs\\typedefEmployee.c",
+              "RelativeToolTip": "structs\\typedefEmployee.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-22T08:44:58.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "typedefPerson.c",
+              "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\typedefPerson.c",
+              "RelativeDocumentMoniker": "structs\\typedefPerson.c",
+              "ToolTip": "C:\\cworkspace\\structs\\structs\\typedefPerson.c",
+              "RelativeToolTip": "structs\\typedefPerson.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-22T08:41:57.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "structRectangle.c",
+              "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\structRectangle.c",
+              "RelativeDocumentMoniker": "structs\\structRectangle.c",
+              "ToolTip": "C:\\cworkspace\\structs\\structs\\structRectangle.c",
+              "RelativeToolTip": "structs\\structRectangle.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-22T08:26:27.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "structArrayPerson.c",
+              "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\structArrayPerson.c",
+              "RelativeDocumentMoniker": "structs\\structArrayPerson.c",
+              "ToolTip": "C:\\cworkspace\\structs\\structs\\structArrayPerson.c",
+              "RelativeToolTip": "structs\\structArrayPerson.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-22T08:17:15.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "structPerson.c",
+              "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\structPerson.c",
+              "RelativeDocumentMoniker": "structs\\structPerson.c",
+              "ToolTip": "C:\\cworkspace\\structs\\structs\\structPerson.c",
+              "RelativeToolTip": "structs\\structPerson.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-22T08:01:19.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

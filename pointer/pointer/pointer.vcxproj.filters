@@ -51,5 +51,8 @@
     <ClCompile Include="calcScore.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="calcScore2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
