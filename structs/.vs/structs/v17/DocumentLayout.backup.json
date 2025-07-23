@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\cworkspace\\structs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|C:\\cworkspace\\structs\\structs\\structStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|solutionrelative:structs\\structStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|C:\\cworkspace\\structs\\structs\\structHero.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|solutionrelative:structs\\structHero.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|C:\\cworkspace\\structs\\structs\\typedefEmployee.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2A675660-EDE0-4DBA-8B81-DAAFC095699A}|structs\\structs.vcxproj|solutionrelative:structs\\typedefEmployee.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,19 +43,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "typedefEmployee.c",
-              "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\typedefEmployee.c",
-              "RelativeDocumentMoniker": "structs\\typedefEmployee.c",
-              "ToolTip": "C:\\cworkspace\\structs\\structs\\typedefEmployee.c*",
-              "RelativeToolTip": "structs\\typedefEmployee.c*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Title": "structStudent.c",
+              "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\structStudent.c",
+              "RelativeDocumentMoniker": "structs\\structStudent.c",
+              "ToolTip": "C:\\cworkspace\\structs\\structs\\structStudent.c",
+              "RelativeToolTip": "structs\\structStudent.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-22T08:44:58.246Z",
+              "WhenOpened": "2025-07-23T08:34:32.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "structHero.c",
+              "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\structHero.c",
+              "RelativeDocumentMoniker": "structs\\structHero.c",
+              "ToolTip": "C:\\cworkspace\\structs\\structs\\structHero.c",
+              "RelativeToolTip": "structs\\structHero.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-23T08:25:53.845Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "typedefEmployee.c",
+              "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\typedefEmployee.c",
+              "RelativeDocumentMoniker": "structs\\typedefEmployee.c",
+              "ToolTip": "C:\\cworkspace\\structs\\structs\\typedefEmployee.c",
+              "RelativeToolTip": "structs\\typedefEmployee.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-22T08:44:58.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "typedefPerson.c",
               "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\typedefPerson.c",
               "RelativeDocumentMoniker": "structs\\typedefPerson.c",
@@ -55,12 +87,11 @@
               "RelativeToolTip": "structs\\typedefPerson.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-22T08:41:57.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T08:41:57.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "structRectangle.c",
               "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\structRectangle.c",
               "RelativeDocumentMoniker": "structs\\structRectangle.c",
@@ -68,12 +99,11 @@
               "RelativeToolTip": "structs\\structRectangle.c",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-22T08:26:27.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T08:26:27.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "structArrayPerson.c",
               "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\structArrayPerson.c",
               "RelativeDocumentMoniker": "structs\\structArrayPerson.c",
@@ -81,12 +111,11 @@
               "RelativeToolTip": "structs\\structArrayPerson.c",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-22T08:17:15.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T08:17:15.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "structPerson.c",
               "DocumentMoniker": "C:\\cworkspace\\structs\\structs\\structPerson.c",
               "RelativeDocumentMoniker": "structs\\structPerson.c",
@@ -94,8 +123,7 @@
               "RelativeToolTip": "structs\\structPerson.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-22T08:01:19.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T08:01:19.731Z"
             }
           ]
         }
